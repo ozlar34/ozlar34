@@ -2,7 +2,7 @@
 
 **AI & Automation Operations** · Berlin, Germany
 
-> I turn a distributed team's repetitive work into n8n + LLM pipelines that run themselves.
+> I build the AI systems a team actually works with — automating the busywork, keeping people in the loop where it counts.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
