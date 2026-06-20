@@ -1,4 +1,4 @@
-# Oz - **Project Manager (AI Operations)** · Berlin, Germany
+# Oz - **Project Manager (AI Operations)**
 
 > I build the AI systems a team actually works with: automating the busywork, keeping people in the loop where it counts.
 
