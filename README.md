@@ -11,8 +11,8 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=flat&logo=google&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=gnometerminal&logoColor=white)
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-B45309?style=flat&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-B45309?style=flat&logo=zapier&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black)
 
 **250K+ player community** · **131K peak concurrent** · **15 broadcast languages** · **8 yrs at Com2uS**
 
@@ -24,4 +24,5 @@
 ---
 
 <sub><i>Last updated: June 2026</i></sub>
+
 
