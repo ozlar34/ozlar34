@@ -12,6 +12,7 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=flat&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-B45309?style=flat&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 **250K+ player community** · **131K peak concurrent** · **15 broadcast languages** · **8 yrs at Com2uS**
 
