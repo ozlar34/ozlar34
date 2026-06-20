@@ -17,9 +17,8 @@ I spent 8 years running community operations at scale: **250K+ player community,
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black)
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=gnometerminal&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=flat&logo=google&logoColor=white)
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-B45309?style=flat&logo=zapier&logoColor=white)
 
 ## Contact
 
