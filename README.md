@@ -1,4 +1,4 @@
-# Oğuz Oral
+# Oz
 
 **AI & Automation Operations** · Berlin, Germany
 
